@@ -24,3 +24,6 @@ The following **bonus** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/ox675BUDan.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+# Notes
+The gif URL cant be displayed on the READ ME section because it exceeds the length, here is the link to the GIF for the Video Walkthrough: http://g.recordit.co/ox675BUDan.gif
